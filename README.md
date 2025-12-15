@@ -28,3 +28,12 @@ A lightweight React dashboard to explore country data using the REST Countries A
 
 ## Deploy (GitHub Pages)
 `npm run deploy`
+
+## Data source
+
+REST Countries API: https://restcountries.com/
+
+## Preview
+![Cards](docs/cards.png)
+![Table](docs/table.png)
+![Details](docs/details.png)

@@ -158,11 +158,7 @@ export default function Dashboard() {
           setSort={setSort}
         />
 
-        <div className="mt-4 flex items-center justify-between">
-            <div className="text-sm text-slate-600">
-                View:
-            </div>
-
+        <div className="mt-4 flex items-center justify-end">
             <div className="bg-white border border-slate-200 rounded-xl p-1 shadow-sm flex gap-1">
                 <button
                     onClick={() => setView("cards")}
