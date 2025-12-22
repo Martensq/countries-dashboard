@@ -2,6 +2,8 @@
 
 A lightweight React dashboard to explore country data using the REST Countries API.
 
+![Cards](./public/cards.png)
+
 ## Tech stack
 - React + Vite
 - Tailwind CSS
@@ -30,10 +32,11 @@ A lightweight React dashboard to explore country data using the REST Countries A
 `npm run deploy`
 
 ## Data source
-
 REST Countries API: https://restcountries.com/
 
+## Live Demo
+https://martensq.github.io/countries-dashboard/
+
 ## Preview
-![Cards](docs/cards.png)
 ![Table](docs/table.png)
 ![Details](docs/details.png)
