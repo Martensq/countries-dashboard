@@ -38,5 +38,5 @@ REST Countries API: https://restcountries.com/
 https://martensq.github.io/countries-dashboard/
 
 ## Preview
-![Table](docs/table.png)
-![Details](docs/details.png)
+![Table](./public/table.png)
+![Details](./public/details.png)
